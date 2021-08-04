@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "'my first project on hexlet'",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darznek-larisa/frontend-project-lvl1.git"
+  },
+  "keywords": [
+    "hexlet"
+  ],
+  "author": "Larisa Darznek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darznek-larisa/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/darznek-larisa/frontend-project-lvl1#readme",
+  "bin" : {
+	  "brain-games": "bin/brain-games.js"
+  }  
+}
